@@ -23,6 +23,7 @@ def run():
     
     # soup = BeautifulSoup(response.content)
     # print(response.content)
+    # driver.close()
 
 if __name__ == '__main__':
     run()
